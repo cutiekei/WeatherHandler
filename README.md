@@ -4,10 +4,12 @@ Modular weather changes, allows for new weather cycles to be added easily throug
 
 **Can modify:**
 
-*   Can modify ambience, brightness, atmosphere density, and time of day.
+*   Ambience, brightness, atmosphere density, and time of day.
 *   SFX and VFX.
 
 **Setup:**
 
-1.  Use SoundService for sfx.
-2.  Make a folder "WeatherParticles" in Workspace for vfx.
+1.  Place in ServerScriptService.
+2.  Edit table to liking.
+3.  Place SFX in SoundService.
+4.  Place VFX in Workspace folder named "WeatherParticles".
